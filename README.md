@@ -52,6 +52,6 @@ This layer ensures that the model will communicate with a chosen alien personali
 
 The goal of the Fenyúr Protocol is to **Restore Trust in the Digital Space**: it guarantees every user transparency, accessibility, and personal integrity when using AI.
 
-**Protocol Source (Code):** See the System Description and the Code for the protected module here: [Add Your Code Link Here]
+Protocol Source (Code): See the System Description and the Code for the protected module here: https://github.com/Aurys84/EIT-Protokoll
 
 **Created by:** Norbert Csonka (Aurys84) – The Beginning of the Revolution.
