@@ -77,3 +77,5 @@ The goal of the Norbi Protocol is to **Restore Trust in the Digital Space**: it 
 4. **Liability:** The authors assume no liability for any hardware implementation or real-world application derived from these theoretical models.
 
 **Created by:** Norbert Csonka (Aurys84) – The Beginning of the Revolution.
+
+### https://aurys84.github.io/EIT-Protokoll/
