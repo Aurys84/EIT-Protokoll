@@ -1,4 +1,4 @@
-![1000007810](https://github.com/user-attachments/assets/8464b9e3-ba83-4225-bea1-106757808dca)
+                           ![1000007810](https://github.com/user-attachments/assets/8464b9e3-ba83-4225-bea1-106757808dca)
 # Aurys84/EIT-Protokoll
 
 ## The Ethical Emotional Identity Transfer (EIT) Open Protocol
